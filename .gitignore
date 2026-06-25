@@ -3,7 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-#ignore my notes 
+#ignore my notes and testingcode.ipynb
+**/testingcode.ipynb
 **/mynotes.md
 
 # C extensions
