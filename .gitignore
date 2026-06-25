@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#ignore my notes 
+**/mynotes.md
+
 # C extensions
 *.so
 
