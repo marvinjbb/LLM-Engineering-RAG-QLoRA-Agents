@@ -3,9 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-#ignore my notes and testingcode.ipynb
+#ignore my notes and testingcode.ipynb and practice.ipynb
 **/testingcode.ipynb
 **/mynotes.md
+**/practice.ipynb
 
 # C extensions
 *.so
